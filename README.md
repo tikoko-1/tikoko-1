@@ -15,7 +15,6 @@
     <img src="https://komarev.com/ghpvc/?username=maryamaljanabi&style=flat-square&color=blue" alt="profile-views"/>
   </div>
 </div>
-
 <hr/>
 
 ### About me ✨ 
