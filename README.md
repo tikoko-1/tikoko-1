@@ -16,7 +16,6 @@
   </div>
 </div>
 <hr/>
-
 ### About me ✨ 
 Hi! I'm a full stack web developer who loves sharing my source codes here to benefit others. I hope you will find my repositories useful and learn something from them :) My dream is to use my skills to help others and contribute to saving the earth from climate change issues 🌎
 ### Skills ⚡
