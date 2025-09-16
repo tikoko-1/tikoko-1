@@ -5,7 +5,7 @@
     <a href="https://maryamaljanabi.com/">
       <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/maryamaljanabi/">
+    <a href="">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.researchgate.net/profile/Maryam-Aljanabi">
