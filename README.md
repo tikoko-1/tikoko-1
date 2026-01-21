@@ -1,19 +1,6 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="400"/>
-  <div id="badges">
-    <a href="https://maryamaljanabi.com/">
-      <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
-    </a>
-    <a href="">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.researchgate.net/profile/Maryam-Aljanabi">
-      <img src="https://img.shields.io/badge/Researchgate-teal?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Badge"/>
-    </a>
-    <br/>
-    <img src="https://komarev.com/ghpvc/?username=maryamaljanabi&style=flat-square&color=blue" alt="profile-views"/>
-  </div>
 </div>
 <hr/>
 ### About me ✨ 
